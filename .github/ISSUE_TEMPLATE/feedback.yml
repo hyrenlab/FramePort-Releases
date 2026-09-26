@@ -1,0 +1,35 @@
+name: "体验反馈 / Feedback"
+description: "告诉我们哪里不顺手，或哪个细节值得保留 / Tell us what felt confusing or worked well"
+title: "[Feedback] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        我们希望 FramePort 保持轻量、直觉和简单。描述你的实际使用场景，比一长串功能清单更有帮助。
+        We want FramePort to stay lightweight and intuitive. A real task or moment of confusion helps more than a long feature list.
+        **反馈公开可见。** 无需上传个人素材、截图或日志。请去掉人名、完整路径、精确地点和其他隐私。
+        **Feedback is public.** Personal footage, screenshots and logs are not required. Redact identifying names, full paths, precise locations and other private details.
+  - type: textarea
+    id: task
+    attributes:
+      label: "你想完成什么 / What were you trying to do?"
+      placeholder: "例如：旅行回来，把两张卡的照片导入，再做一份轻量副本。 / For example: import two cards after a trip, then make smaller copies."
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: "哪一步不顺手，或让你觉得好用 / What was confusing or worked well?"
+      description: "告诉我们你看到了什么、期待什么。Describe what you saw and what you expected."
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: "使用环境（可选） / Environment, optional"
+      description: "版本、macOS、芯片、相关设备或格式；不要填写序列号或个人路径。App/macOS version, chip, relevant device or format; no serial numbers or personal paths."
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: "你的建议（可选） / Your suggestion, optional"
+      description: "不需要设计方案；说说怎样会更自然即可。No design proposal needed; describe what would feel more natural."

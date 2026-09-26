@@ -1,0 +1,56 @@
+name: "问题报告 / Bug report"
+description: "安装、导入、压缩或元数据遇到问题 / Report a problem with installation, import, compression or metadata"
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢试用 FramePort。请先看[已知问题](https://github.com/j1374483500-dot/FramePort-Releases/blob/main/docs/KNOWN_ISSUES.md)。
+        **此处公开可见。** 不需要上传个人素材或日志；请去掉人名、完整路径、身份信息、序列号和精确地点。
+        Please check the [known issues](https://github.com/j1374483500-dot/FramePort-Releases/blob/main/docs/KNOWN_ISSUES.md). **This report is public.** Personal footage and logs are not required. Redact names, paths, identifying information, serial numbers and precise locations.
+  - type: input
+    id: version
+    attributes:
+      label: "FramePort 版本 / Version"
+      placeholder: "例如 / e.g. 0.88 Public Beta 1 (Build 12)"
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: "macOS 与 Mac 芯片 / macOS and Mac chip"
+      placeholder: "例如 / e.g. macOS 15.7, M2；不确定可写“不确定” / Unknown is fine"
+    validations:
+      required: true
+  - type: input
+    id: media
+    attributes:
+      label: "设备与文件格式（如相关） / Device and file format, if relevant"
+      description: "写型号或格式即可，不要写序列号、原文件名或地点。Model/format only; no serial numbers, original file names or locations."
+      placeholder: "例如 / e.g. SD card reader, Canon CR3; MP4 / HEVC; unknown"
+  - type: textarea
+    id: steps
+    attributes:
+      label: "怎样发生的 / Steps to reproduce"
+      description: "按操作顺序描述。相册时间问题请说明导入路径及查看位置。Describe the steps. For Photos dates, include the transfer path and where you checked the date."
+      placeholder: |
+        1. …
+        2. …
+        3. …
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: "期望与实际结果 / Expected and actual result"
+      description: "可附已脱敏的错误提示；无需上传完整日志。Include a redacted error message if useful; full logs are not needed."
+      placeholder: |
+        期望 / Expected: …
+        实际 / Actual: …
+    validations:
+      required: true
+  - type: textarea
+    id: optional
+    attributes:
+      label: "补充信息（可选） / Additional context, optional"
+      description: "截图或小样完全可选。只分享你有权公开、且已去除隐私的内容。Screenshots or minimal samples are optional; share only material you may publish and have checked for private data."
