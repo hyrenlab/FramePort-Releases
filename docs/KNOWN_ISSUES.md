@@ -21,7 +21,7 @@
 
 ## 反馈时提供什么
 
-[报告问题](https://github.com/j1374483500-dot/FramePort-Releases/issues/new?template=bug_report.yml) 时，写明 macOS 版本、Mac 芯片、相关设备或文件格式、操作步骤、期望结果及实际结果即可。对于相册时间问题，请同时说明导入路径，以及差异来自照片信息页还是“最近添加”列表。
+[报告问题](https://github.com/hyrenlab/FramePort-Releases/issues/new?template=bug_report.yml) 时，写明 macOS 版本、Mac 芯片、相关设备或文件格式、操作步骤、期望结果及实际结果即可。对于相册时间问题，请同时说明导入路径，以及差异来自照片信息页还是“最近添加”列表。
 
 不需要上传私人素材或完整日志。GitHub Issues 公开可见；截图、文件名、路径、设备序列号、GPS 坐标和其他个人信息请先脱敏。只有在你愿意且有权分享时，才附上最小化、无隐私的样本。
 

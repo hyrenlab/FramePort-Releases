@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Mac-Apple%20Silicon-686868?labelColor=4B4B4B" alt="Apple Silicon">
   <img src="https://img.shields.io/badge/macOS-15%2B%20declared-686868?labelColor=4B4B4B" alt="Declared minimum macOS 15">
 </p>
-<h3 align="center"><a href="https://github.com/j1374483500-dot/FramePort-Releases/releases/download/v0.88.0-beta.1/FramePort-0.88-beta.1-macOS-arm64.zip">Download for Mac · Public Beta 1</a></h3>
+<h3 align="center"><a href="https://github.com/hyrenlab/FramePort-Releases/releases/download/v0.88.0-beta.1/FramePort-0.88-beta.1-macOS-arm64.zip">Download for Mac · Public Beta 1</a></h3>
 <p align="center">
-  <a href="https://github.com/j1374483500-dot/FramePort-Releases/releases/tag/v0.88.0-beta.1">Release notes &amp; checksums</a> ·
-  <a href="https://github.com/j1374483500-dot/FramePort-Releases/issues/new/choose">Share feedback</a>
+  <a href="https://github.com/hyrenlab/FramePort-Releases/releases/tag/v0.88.0-beta.1">Release notes &amp; checksums</a> ·
+  <a href="https://github.com/hyrenlab/FramePort-Releases/issues/new/choose">Share feedback</a>
 </p>
 
 
@@ -92,7 +92,7 @@ Tell us if a step leaves you unsure what to do, a control is hard to find, or th
 
 Include your macOS version, Mac chip, relevant device or file format, the steps you took, and what happened. For date problems in Photos, explain how you imported the file and whether the discrepancy appears in the information panel or Recently Added.
 
-[Report a bug](https://github.com/j1374483500-dot/FramePort-Releases/issues/new?template=bug_report.yml) · [Share your experience](https://github.com/j1374483500-dot/FramePort-Releases/issues/new?template=feedback.yml)
+[Report a bug](https://github.com/hyrenlab/FramePort-Releases/issues/new?template=bug_report.yml) · [Share your experience](https://github.com/hyrenlab/FramePort-Releases/issues/new?template=feedback.yml)
 
 GitHub Issues are public. You do not need to upload personal footage or full logs; screenshots and samples are optional. Remove names, identifying information, full paths, device serial numbers and precise locations before sharing.
 

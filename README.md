@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Mac-Apple%20Silicon-686868?labelColor=4B4B4B" alt="Apple Silicon">
   <img src="https://img.shields.io/badge/macOS-15%2B%20declared-686868?labelColor=4B4B4B" alt="声明最低 macOS 15">
 </p>
-<h3 align="center"><a href="https://github.com/j1374483500-dot/FramePort-Releases/releases/download/v0.88.0-beta.1/FramePort-0.88-beta.1-macOS-arm64.zip">下载 Mac 版 · Public Beta 1</a></h3>
+<h3 align="center"><a href="https://github.com/hyrenlab/FramePort-Releases/releases/download/v0.88.0-beta.1/FramePort-0.88-beta.1-macOS-arm64.zip">下载 Mac 版 · Public Beta 1</a></h3>
 <p align="center">
-  <a href="https://github.com/j1374483500-dot/FramePort-Releases/releases/tag/v0.88.0-beta.1">版本说明与校验信息</a> ·
-  <a href="https://github.com/j1374483500-dot/FramePort-Releases/issues/new/choose">提交反馈</a>
+  <a href="https://github.com/hyrenlab/FramePort-Releases/releases/tag/v0.88.0-beta.1">版本说明与校验信息</a> ·
+  <a href="https://github.com/hyrenlab/FramePort-Releases/issues/new/choose">提交反馈</a>
 </p>
 
 
@@ -92,7 +92,7 @@ SHA-256 校验用于核对复制前后的文件内容是否一致。默认归档
 
 描述问题时，写明 macOS 版本、Mac 芯片、相关设备或文件格式、操作步骤，以及实际发生了什么。若是照片时间问题，请说明你怎样把文件导入照片应用，看到的差异是在信息页还是“最近添加”列表。
 
-[报告问题](https://github.com/j1374483500-dot/FramePort-Releases/issues/new?template=bug_report.yml) · [分享使用感受](https://github.com/j1374483500-dot/FramePort-Releases/issues/new?template=feedback.yml)
+[报告问题](https://github.com/hyrenlab/FramePort-Releases/issues/new?template=bug_report.yml) · [分享使用感受](https://github.com/hyrenlab/FramePort-Releases/issues/new?template=feedback.yml)
 
 GitHub Issues 公开可见。无需上传个人素材或完整日志；截图和样本均为可选。分享前请去除人名、身份信息、完整路径、设备序列号和精确地点。
 
